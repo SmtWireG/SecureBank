@@ -39,6 +39,12 @@ This simulation is designed to represent:
 
 ---
 
+## 📈 Future Development
+
+This project was designed with extensibility in mind. In the future, the core logic of SecureBank can be adapted into a fully interactive web application using **JavaScript**, **HTML**, and **CSS**. This would allow users to interact with the same account and transaction system through a modern browser interface, and potentially connect to a backend using **Node.js** or **Firebase** for persistent storage and multi-user support.
+
+---
+
 ## ▶️ How to Run
 
 1. Clone the repository:
