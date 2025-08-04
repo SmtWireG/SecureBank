@@ -1,7 +1,6 @@
 # 💳 SecureBank – Terminal-Based C++ Banking Simulation
 
-SecureBank is a functional banking system written in C++ with a secure and minimal CLI interface. It showcases user login with hidden password input, basic banking operations, and IBAN-based money transfers — ideal for technical internships in fintech or core banking systems.
-
+SecureBank is a functional banking system written in C++ with a secure and minimal CLI interface. It showcases user login with hidden password input, basic banking operations, and IBAN-based money transfers.
 ---
 
 ## 🎥 Preview
