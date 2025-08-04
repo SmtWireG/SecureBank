@@ -6,15 +6,20 @@ SecureBank is a functional banking system written in C++ with a secure and minim
 
 ## 🎥 Preview
 
-![Login Screen](Ekran görüntüsü 2025-08-04 125807.png)
+![Login Screen](SecureBank
+/Ekran görüntüsü 2025-08-04 125807.png)
 
-![Deposit Operation](Ekran görüntüsü 2025-08-04 125904.png)
+![Deposit Operation](SecureBank
+/Ekran görüntüsü 2025-08-04 125904.png)
 
-![View Balance](Ekran görüntüsü 2025-08-04 125927.png)
+![View Balance](SecureBank
+/Ekran görüntüsü 2025-08-04 125927.png)
 
-![Withdraw Operation](Ekran görüntüsü 2025-08-04 125951.png)
+![Withdraw Operation](SecureBank
+/Ekran görüntüsü 2025-08-04 125951.png)
 
-![Tansfer Process](Ekran görüntüsü 2025-08-04 130032.png)
+![Tansfer Process](SecureBank
+/Ekran görüntüsü 2025-08-04 130032.png)
 
 
 ---
